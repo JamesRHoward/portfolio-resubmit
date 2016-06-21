@@ -1,0 +1,23 @@
+.jumbotron {
+  text-align: center;
+  width: auto;
+  height: 360px;
+  margin-bottom: 0;
+}
+
+.img-responsive {
+  width: 1000px;
+  height: 360px;
+  max-height: 360px;
+}
+
+#right {
+  padding-left: 50px;
+}
+#left {
+  padding-left: 50px;
+}
+
+.form-contol-static {
+  padding: 0;
+}
